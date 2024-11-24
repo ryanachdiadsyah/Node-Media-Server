@@ -51,7 +51,7 @@ const config = {
     cert: __dirname+'/cert.pem',
   },
   auth: {
-    api: true,
+    api: false,
     api_user: 'admin',
     api_pass: 'admin',
     play: false,
